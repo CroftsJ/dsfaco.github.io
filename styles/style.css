@@ -1,0 +1,41 @@
+
+body {
+    font-family: Futura, "Century Gothic", CenturyGothic, sans-serif;
+    text-align: center;
+    width: 75%;
+    margin: 0 auto;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+nav {
+    font-size: 4rem;
+    display: block;
+    overflow: hidden;
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+nav a {
+    padding: 10px;
+}
+
+.pull-left {
+    float: left;
+}
+
+.pull-right {
+    float: right;
+}
+
+.header {
+    margin: 15px;
+    padding: 20px;
+}
+
+#contact {
+    margin: 15px;
+}
